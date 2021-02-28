@@ -1,16 +1,14 @@
 # demo
 
 A new Flutter project.
+BMI Calculator 
+Usage of StatefulWidget, Scaffold, AppBar, Text, TextStyle, Image, Action, IconButton, Icon, GestureDetector, Padding, Container, TextField, InputDecoration, KeyboardType, Row, Column, RadioButton, SizedBox, RaisedButton.
+
+
+![alt text](https://github.com/AJAYKUMAR-VEDULA/Flutter-BMI-Calculator/blob/main/demo%20GIF/Screen%20Recording%202021-02-28%20at%205.00.33%20PM.gif?now=true)
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
